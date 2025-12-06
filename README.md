@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Study Workspace
 
 A full-stack study workspace that combines a cloud-based file explorer, structured digital notebooks, and a Notion-style block editor.
@@ -104,3 +105,7 @@ study-workspace/
 └── README.md
 ```
 
+=======
+# Study-Work-Space-
+A digital work space with 
+>>>>>>> cbc58cb2e19b0b8e2d3eee8046c24666cab8ad47
